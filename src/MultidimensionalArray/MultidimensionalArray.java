@@ -26,6 +26,6 @@ public class MultidimensionalArray {
              }
              //Output
              System.out.println();
-         }
+         }   System.out.println();
      }
 }
